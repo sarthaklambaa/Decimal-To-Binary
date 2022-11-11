@@ -1,0 +1,28 @@
+body {
+    background-image: url(/static/assets/img/bg.jpg);
+    z-index: -1;
+  }
+
+h2{
+    text-align: center;
+    color: white;
+    padding-top: 12rem;
+    font-family: 'Silkscreen', cursive;
+    font-size:  1000px;
+}
+
+h3{
+    text-align: center;
+    color: white;
+    padding-top: 4rem;
+    font-family: 'Silkscreen', cursive;
+    font-size:  1000px;
+}
+
+.button2 {
+    position: fixed
+    ;
+    margin-top: 10px;
+    margin-left: 18rem;
+   }
+   /* check */
